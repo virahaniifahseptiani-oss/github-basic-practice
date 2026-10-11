@@ -1,0 +1,3 @@
+Hello, GitHub!
+This repository is used to practice organizing files,
+writing documentation, and reviewing changes.
